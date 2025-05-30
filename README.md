@@ -1,1 +1,3 @@
-html notes
+git add .
+git commit -m"g"
+git push
